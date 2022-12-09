@@ -102,8 +102,4 @@ jobs:
           plugin_repositories_order: featured, pinned, starred, random
           plugin_repositories_pinned: 2
           plugin_repositories_starred: 2
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: starred
-          plugin_topics_sort: stars
           repositories_forks: yes
