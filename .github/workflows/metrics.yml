@@ -33,6 +33,7 @@ jobs:
           base_indepth: yes
           base_skip: yes
           config_timezone: America/Mexico_City
+          config_display: columns
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
